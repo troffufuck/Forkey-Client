@@ -1,6 +1,4 @@
-<img width="1917" height="1201" alt="изображение" src="https://github.com/user-attachments/assets/208d2412-15bd-49c5-9e09-d263df626342" /># 👾 Standoff2 Aimbot Wallhack BHop No recoil
-
-<div align="center">
+👾 Standoff2 Aimbot Wallhack BHop No recoil
 
 # 🚀 Standoff2 Aimbot Wallhack BHop No recoil
 
