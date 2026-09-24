@@ -4,9 +4,9 @@
 
 <br>
 
-| **VERSION** | **STATUS** | **ESP VISION** | **PLAYERS** | **PERFECT AIM** |
-| :---: | :---: | :---: | :---: | :---: |
-| **2026.09.01** | ✅ **ALL WORKING** | 🔥 **ULTRA** | **2.4K+** | 🎯 **100%** |
+  | **VERSION** | **STATUS** | **ESP VISION** | **PLAYERS** | **PERFECT AIM** |
+  | :---: | :---: | :---: | :---: | :---: |
+  | **2026.09.01** | ✅ **ALL WORKING** | 🔥 **ULTRA** | **2.4K+** | 🎯 **100%** |
 
 <br>
 
